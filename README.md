@@ -70,4 +70,3 @@ plt.show()
 
 ## Conclusiones
 El análisis de datos realizado proporciona insights significativos sobre el dataset. Las visualizaciones ayudan a entender mejor las relaciones entre variables y a identificar tendencias que pueden ser útiles para la toma de decisiones.
-```
